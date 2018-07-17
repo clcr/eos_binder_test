@@ -1,1 +1,4 @@
 wget https://s3.eu-central-1.amazonaws.com/forestsentinel/historical/change_maps/Merged60.tif
+jupyter serverextension enable --py nbresuse --sys-prefix
+jupyter nbextension install --py nbresuse --sys-prefix
+jupyter nbextension enable --py nbresuse --sys-prefix
