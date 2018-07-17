@@ -7,3 +7,6 @@ dependencies:
   - scipy
   - gdal
   - opencv
+  - pip:
+    -nbresuse
+  
